@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @joyefemike
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on projects involving Data Analysis that cuts across all sector
-- 📫 You can reach me via: ikojoy081081@gmail.com
-
+- 👋  Hello! I’m joyefemike, a dedicated Data Analyst with a passion for turning data into actionable insights. Welcome to my GitHub profile!
+- 👀 I specialize in data analysis, and visualizations. I enjoy exploring complex datasets and uncovering trends that help drive informed decision-making. My toolkit includes POwer BI, Excel, and various data visualization libraries.
+- 🌱  I’m particularly interested in data storytelling, machine learning, etc. I love collaborating on projects that push the boundaries of data analysis and help organizations leverage data effectively.
+- 💞️ I’m always eager to collaborate, share ideas, and learn from fellow data enthusiasts. Feel free to reach out via: ikojoy081081@gmail.com, if you’d like to connect or discuss data-related topics!
